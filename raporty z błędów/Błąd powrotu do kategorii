@@ -1,0 +1,20 @@
+Tytuł: 
+  Przycisk „Powrót do kategorii” nie działa
+Opis: 
+	Po kliknięciu w przycisk „Powrót do kategorii” następuje przekierowanie do strony głównej.
+Lista kroków do reprodukcji:
+1.	Przechodzimy na stronę http://sklepdemo5.sth.pl/
+2.	Klikamy w menu boczne w kategorię „Zawieszki”
+3.	Klikamy w obrazek zawieszki.
+4.	Klikamy w przycisk „Powrót do koszyka”
+Rzeczywisty rezultat:
+	Nastąpiło przekierowanie do strony głównej.
+Oczekiwany rezultat: 
+	Użytkownik powinien zostać przekierowany do kategorii „Zawieszki”
+Środowisko: 
+  Wersja 156.0.8078.47 (Oficjalna wersja) (64-bitowa)
+Waga: Medium
+Priorytet: Low
+
+
+Załącznik: 
